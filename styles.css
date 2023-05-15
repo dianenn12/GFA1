@@ -1,0 +1,16 @@
+#container {
+    width: 750px;
+    height: 700px;
+
+    padding: 15px;
+
+    display: block;
+    position: relative;
+
+}
+p, form{
+    line-height: 1.5;
+
+    text-align: justify;
+    font-family: sans-serif;
+}
